@@ -40,3 +40,5 @@ fields:
 - type: tag_list
   label: tags
   name: tags
+pages:
+- posts/test.md
