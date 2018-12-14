@@ -1,9 +1,13 @@
 ---
-title: 'tech'
-date: 2018-11-14T19:02:50-07:00
-draft: false
----
+title: tech
+date: 2018-11-15 02:02:50 +0000
+categories:
+- category: Economy
+image: "/v1544628361/samples/landscapes/nature-mountains.jpg"
+tags:
+- test
 
+---
 # [Victor Hugo](https://github.com/netlify-templates/victor-hugo)
 
 ## A Hugo boilerplate for creating truly epic websites
